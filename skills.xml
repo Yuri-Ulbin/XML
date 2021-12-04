@@ -1,22 +1,22 @@
 <SKILLS>
-    <SKILL>HTTP codes</SKILL>
-    <SKILL>JSON,XML formats</SKILL>
-    <SKILL>API testing using Postman</SKILL>
-    <SKILL>Logs reading</SKILL>
-    <SKILL>HTTP web traffic sniffing</SKILL>
-    <SKILL>Dev Tools</SKILL>
-    <SKILL>VPN</SKILL>
-    <SKILL>Mobile testing</SKILL>
-    <SKILL>Andrioid and guidelines</SKILL>
-    <SKILL>Apps building using xcode</SKILL>
-    <SKILL>ADB</SKILL>
-    <SKILL>VPN and Proxy</SKILL>
-    <SKILL>Charles and Fiddler mobile traffic sniffing</SKILL>
-    <SKILL>Linux terminal</SKILL>
-    <SKILL>SQL</SKILL>
-    <SKILL>Postrgres</SKILL>
-    <SKILL>Redis</SKILL>
-    <SKILL>Jmeter</SKILL>
-    <SKILL>Scrum methodology</SKILL>
-    <SKILL>Python</SKILL>
+    <SKILL1>HTTP codes</SKILL1>
+    <SKILL2>JSON,XML formats</SKILL2>
+    <SKILL3>API testing using Postman</SKILL3>
+    <SKILL4>Logs reading</SKILL4>
+    <SKILL5>HTTP web traffic sniffing</SKILL5>
+    <SKILL6>Dev Tools</SKILL6>
+    <SKILL7>VPN</SKILL7>
+    <SKILL8>Mobile testing</SKILL8>
+    <SKILL9>Andrioid and guidelines</SKILL9>
+    <SKILL10>Apps building using xcode</SKILL10>
+    <SKILL11>ADB</SKILL11>
+    <SKILL12>VPN and Proxy</SKILL12>
+    <SKILL13>Charles and Fiddler mobile traffic sniffing</SKILL13>
+    <SKILL14>Linux terminal</SKILL14>
+    <SKILL15>SQL</SKILL15>
+    <SKILL16>Postrgres</SKILL16>
+    <SKILL17>Redis</SKILL17>
+    <SKILL18>Jmeter</SKILL18>
+    <SKILL19>Scrum methodology</SKILL19>
+    <SKILL20>Python</SKILL20>
 </SKILLS>
