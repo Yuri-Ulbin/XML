@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?>
 
-<Bug title> Application crash on clicking the SAVE button while creating a new user </Bug title>
-<Build number> Version Number 5.0.1 </Build number>
+<Bug_title> Application crash on clicking the SAVE button while creating a new user </Bug_title>
+<Build_number> Version Number 5.0.1 </Build_number>
 <Environment> Windows 10, Chrome 31.0.1650.63m </Environment>
 <Severity> S1 Blocker </Severity>
 <Priority> P1 High </Priority>
-<Assigned to> Middle C++ Developer Ivan Ivan </Assigned to>
-<Reported by> Yuri Ulbin </Reported by>
+<Assigned_to> Middle C++ Developer Ivan Ivan </Assigned_to>
+<Reported_by> Yuri Ulbin </Reported_by>
 <Type> Bug </Type>
 <Status> New/Open/Active (Depends on the Tool you're using) </Status>
 <Description> Application crash on clicking the SAVE button while creating a new user, hence unable to create a new user in the app </Description>
-<Steps to reproduce>
+<Steps_to_reproduce>
 1) Logon into the application
 2) Navigate to the Users Menu > New User
 3) Filled all the user informations fields
@@ -18,7 +18,7 @@
 5) Seen an error page 'ORA1090 Exception:Insert values Error..'
 6) See the attached logs for more information (Attach more logs telated to bug..IF any)
 7) And also see the attached screenshot of the error page.
-</Steps to reproduce>
-<Expected result> On clicking SAVE button, should be prompted to a success message 'New User has been successfully' </Expected result>
-<Actual result> Application crashes after clicking the SAVE button while creating new user </Actual result>
+</Steps_to_reproduce>
+<Expected_result> On clicking SAVE button, should be prompted to a success message 'New User has been successfully' </Expected_result>
+<Actual_result> Application crashes after clicking the SAVE button while creating new user </Actual_result>
 <Attachment> Attach 'application crash' screenshot.. If any </Attachment>
